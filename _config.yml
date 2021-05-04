@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Junhyeok Cheong
+title: J.H Cheong
 email: wnsgur9608@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Themed by ejjoo
 # baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://wnsgur9608.github.io"
-github_username: ejjoo
+github_username: wnsgur9608
 highlighter: rouge
 svg:
   optimize: true
